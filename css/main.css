@@ -1,0 +1,106 @@
+/*
+	Inserta tu CSS aqui
+*/
+.fondo{
+	background-image: url(../img/grupal.jpg);
+	 height:1280px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.boton-sumate{		
+	height: 85px;
+	width: 200px;
+	background-color: #FCB739;
+	position: relative;	
+    right: 0px;
+    left: 280px;
+    top: 85px;    
+    text-align: center;
+    padding-top: 28px;
+    font-size: 23px;
+    }
+    .logo{
+        position: relative;
+        top: 85px;
+        left: 50px;
+        width: 80%;
+        text-align: center;
+    }
+
+    ul{
+        list-style-type: none;
+        float: left;
+        font-size: 20px;
+        font-family: Arial;
+         margin: 45px 30px 10px 0px;
+        
+    }
+
+    li{
+        position: relative;
+        float: left;       
+        padding: 25px 20px 10px 0px;
+    }
+    nav a{
+    text-decoration: none;    
+    color: #242427;
+    }
+    section{
+         background-color: white;
+         height: 400px;
+         margin-top: -260px;
+    }
+
+    .fotos{
+        
+        margin-right: 0px;
+        margin-left: 0px;
+        width: 1880px;
+        height: 360px;
+        margin-top: 30px;
+        padding-left: 280px;
+        padding-right: 200px;
+        margin-bottom: 90px;
+
+
+    }
+    
+    .apilar{
+        float: left;        
+        width: 400px;
+        height: 300px;
+        margin: 20px;
+        text-align: left;
+        margin-left: ;
+
+    }
+    .thumbs{        
+        width: 400px;
+        text-align: center;
+        margin: 20px;
+        margin-left: 0;
+        margin-bottom: 2px;
+
+    }
+
+   .texto{
+    font-size: 20px;
+    margin: 0;
+   } 
+
+   hr{
+    border: 1.5px solid black;
+   }
+   footer{
+    height: 130px;
+    background-color: #323230;
+    margin-top: 50px;
+   }
+   .texto-final{
+    color: white;
+    margin-top: 30px;
+        padding-left: 290px;
+        padding-right: 235px;
+        margin-bottom: 90px;
+   }
